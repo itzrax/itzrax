@@ -63,5 +63,5 @@ I'm looking for opportunities to gain **real-world experience with cloud and Dev
 
 ### 📫 Connect
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [GitHub](https://github.com/itzrax)
+[LinkedIn](www.linkedin.com/in/rahsheetha) · [GitHub](https://github.com/itzrax)
 
