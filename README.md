@@ -1,86 +1,67 @@
-# Hi, I'm Rahsheetha 👋
+# Hey, I'm Rahsheetha 👋
 
 ### ☁️ Cloud & DevOps Learner
 
-I'm a Computer Science Engineering student building hands-on experience in
-cloud infrastructure, automation, DevOps, and cloud security.
+I'm a Computer Science Engineering student building hands-on experience in **cloud infrastructure, DevOps, automation, and cloud security**.
 
-I learn by building practical projects and documenting what I learn along
-the way.
+I learn by building practical projects and documenting what I learn along the way.
 
 ---
 
-## 🛠️ What I'm Working With
+### 🛠️ What I'm Working With
 
 **Cloud**
-- AWS
-- IAM
-- EC2
-- S3
-- CloudFront
+`AWS` · `IAM` · `EC2` · `S3` · `CloudFront`
 
 **Infrastructure & DevOps**
-- Terraform
-- Docker
-- GitHub Actions
-- CI/CD
-- Linux
+`Terraform` · `Docker` · `GitHub Actions` · `CI/CD` · `Linux`
 
 **Programming**
-- Python
-- Bash
+`Python` · `Bash`
 
 **Security**
-- IAM & Least Privilege
-- OIDC
-- Vulnerability Scanning
-- Secure CI/CD
+`IAM & Least Privilege` · `OIDC` · `Vulnerability Scanning` · `Secure CI/CD`
 
 ---
 
-## 🚀 Projects
+### 🚀 Featured Projects
 
-### 🌐 AWS Static Website CI/CD
-Automated deployment of a static website using AWS S3, CloudFront,
-GitHub Actions and OIDC-based authentication.
+**🌐 AWS Static Website CI/CD**
+Automated deployment using AWS S3, CloudFront, GitHub Actions, and OIDC-based authentication.
 
-→ [View Project](https://github.com/itzrax/aws-static-site-cicd)
+[View project →](https://github.com/itzrax/aws-static-site-cicd)
 
-### 🔐 Secure CI/CD Pipeline
-A CI/CD pipeline integrating security checks including Bandit and Trivy
-to identify vulnerabilities before deployment.
+**🔐 Secure CI/CD Pipeline**
+A CI/CD pipeline integrating Bandit and Trivy for automated security and vulnerability checks.
 
-→ [View Project](https://github.com/itzrax/secure-ci-cd-project)
+[View project →](https://github.com/itzrax/secure-ci-cd-project)
 
-### ☁️ Cloud Cost Janitor
-A Terraform-based project exploring automated cloud resource cleanup
-and cost-management practices.
+**☁️ Cloud Cost Janitor**
+A Terraform-based project exploring automated cloud resource cleanup and cost-management practices.
 
-→ [View Project](https://github.com/itzrax/cloud-cost-janitor)
+[View project →](https://github.com/itzrax/cloud-cost-janitor)
 
 ---
 
-## 📚 Currently Learning
+### 📚 Currently Learning
 
-- AWS cloud infrastructure
-- Terraform & Infrastructure as Code
-- Docker & containerization
-- Linux administration
-- Networking
-- Cloud security
-- CI/CD automation
-
----
-
-## 🎯 Goal
-
-To gain real-world experience working with cloud infrastructure and
-DevOps teams while continuing to build secure, reliable and automated
-cloud solutions.
+* AWS cloud infrastructure
+* Terraform & Infrastructure as Code
+* Docker & containerization
+* Linux administration
+* Networking
+* Cloud security
+* CI/CD automation
 
 ---
 
-## 📫 Connect With Me
+### 🎯 What I'm Looking For
 
-- [LinkedIn](YOUR_LINKEDIN_URL)
-- [GitHub](https://github.com/itzrax)
+I'm looking for opportunities to gain **real-world experience with cloud and DevOps teams**, contribute to practical projects, and continue building secure and reliable cloud solutions.
+
+---
+
+### 📫 Connect
+
+[LinkedIn](YOUR_LINKEDIN_URL) · [GitHub](https://github.com/itzrax)
+
